@@ -6,20 +6,27 @@
 
 ## Perguntas 
 
-TP_SEXO: M OU F
+#### TP_SEXO <br>
+M OU F
 
-NT_GER: Nota bruta da prova - Média ponderada da formação geral (25%) e componente específico (75%). (valor de 0 a 100)
+#### NT_GER 
+Nota bruta da prova - Média ponderada da formação geral (25%) e componente específico (75%). (valor de 0 a 100)
+<br>
 min = 0
 max = 98,10
 
-QE_I01: Qual o seu estado civil?
+#### QE_I01 <br>
+Qual o seu estado civil? 
+<br>
 A = Solteiro(a).
 B = Casado(a).
 C = Separado(a) judicialmente/divorciado(a).
 D = Viúvo(a).
 E = Outro.
 
-QE_I02: Qual é a sua cor ou raça?
+#### QE_I02 
+Qual é a sua cor ou raça?
+<br>
 A = Branca.
 B = Preta.
 C = Amarela.
@@ -27,7 +34,9 @@ D = Parda.
 E = Indígena.
 F = Não quero declarar.
 
-QE_I08: Qual a renda total de sua família, incluindo seus rendimentos?
+#### QE_I08 
+Qual a renda total de sua família, incluindo seus rendimentos?
+<br>
 A = Até 1,5 salário mínimo (até R$ 1.405,50).
 B = De 1,5 a 3 salários mínimos (R$ 1.405,51 a R$ 2.811,00).
 C = De 3 a 4,5 salários mínimos (R$ 2.811,01 a R$ 4.216,50).
